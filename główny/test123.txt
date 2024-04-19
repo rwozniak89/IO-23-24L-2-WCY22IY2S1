@@ -1,2 +1,3 @@
 plik testowy
 wpis numer 2
+edycja kolejna 456
