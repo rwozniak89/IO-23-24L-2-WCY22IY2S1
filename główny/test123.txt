@@ -1,1 +1,2 @@
 plik testowy
+wpis numer 2
