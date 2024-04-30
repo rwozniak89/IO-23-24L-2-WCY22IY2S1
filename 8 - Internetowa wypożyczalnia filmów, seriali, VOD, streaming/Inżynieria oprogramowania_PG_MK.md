@@ -72,7 +72,6 @@
 
 [9.	MoSCoW	19](#_toc2143506325)
 
-[10.	Diagramy przypadków użycia	20](#_toc1864972547)
 
 
 
@@ -600,21 +599,5 @@ US16
 |Wylogowanie się|Pobieranie i oglądanie filmów offline|||
 |Dostosowanie do praw narodowych|Zagwarantowanie centrum obsługi klienta|||
 
-3. # <a name="_toc777751039"></a><a name="_toc1921538744"></a><a name="_toc533301110"></a><a name="_toc1651953214"></a><a name="_toc2120493535"></a><a name="_toc1779437259"></a><a name="_toc1070684195"></a><a name="_toc2062504361"></a><a name="_toc1429323264"></a><a name="_toc178551681"></a><a name="_toc1864972547"></a>Diagramy przypadków użycia
-![](Aspose.Words.6bb87a04-dae5-4004-80e9-f82601d1c21b.001.png)PG
 
-![](Aspose.Words.6bb87a04-dae5-4004-80e9-f82601d1c21b.002.png)
-
-PG
-
-![](Aspose.Words.6bb87a04-dae5-4004-80e9-f82601d1c21b.003.png)MK
-
-
-
-
-
-![](Aspose.Words.6bb87a04-dae5-4004-80e9-f82601d1c21b.004.png)
-
-MK
-2
 
