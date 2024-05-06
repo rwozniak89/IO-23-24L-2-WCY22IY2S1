@@ -1,8 +1,9 @@
 # PSO
 
 <p align="center">
-  <img src="13 - Stacja paliw/Project contents/img/image.png" alt="Logo"/>
+    <img src="13%20-%20Stacja%20paliw/Project%20contents/img/image.png" alt="Logo"/>
 </p>
+
 
 
 
